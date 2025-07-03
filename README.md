@@ -1,14 +1,11 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091563.jpg?semt=ais_hybrid&w=740))]
-<h1 align="center">I'm Sohanur Rahman Shuvo</h1>
+[![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091563.jpg?semt=ais_hybrid&w=740)]
+<h1 align="center">Hi 👋, I'm Sohanur Rahman Shuvo</h1>
 <h3 align="center">A new UI/UX designer try to learn.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://danielmeiller.com/images/uxuix.gif)">
+<img align="right" alt="Coding" width="400" src="https://danielmeiller.com/images/uxuix.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srshuvo71&label=Profile%20views&color=0e75b6&style=flat" alt="srshuvo71" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@maxzisan" target="blank"><img src="https://img.shields.io/twitter/follow/@maxzisan?logo=twitter&style=for-the-badge" alt="@maxzisan" /></a> </p>
-
 - 🌱 I’m currently learning **Figma, UI/UX, Adobe photoshop & illustrator**
-
-- projects [Will make one soon ...](Will make one soon ...)
 
 - 💬 Ask me about **Figma, Python, HTML, CSS**
 
@@ -25,7 +22,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srshuvo71&show_icons=true&locale=en&layout=compact" alt="srshuvo71" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srshuvo71&" alt="srshuvo71" /></p>
