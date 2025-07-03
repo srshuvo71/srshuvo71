@@ -1,6 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091563.jpg?semt=ais_hybrid&w=740))]
 <h1 align="center">I'm Sohanur Rahman Shuvo</h1>
 <h3 align="center">A new UI/UX designer try to learn.</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://danielmeiller.com/images/uxuix.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srshuvo71&label=Profile%20views&color=0e75b6&style=flat" alt="srshuvo71" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@maxzisan" target="blank"><img src="https://img.shields.io/twitter/follow/@maxzisan?logo=twitter&style=for-the-badge" alt="@maxzisan" /></a> </p>
