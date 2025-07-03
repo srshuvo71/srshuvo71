@@ -1,7 +1,5 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091563.jpg?semt=ais_hybrid&w=740)]
-<h1 align="center">Hi 👋, I'm Sohanur Rahman Shuvo</h1>
+<h1 align="center">I'm Sohanur Rahman Shuvo</h1>
 <h3 align="center">A new UI/UX designer try to learn.</h3>
-<img align="right" alt="Coding" width="400" src="https://danielmeiller.com/images/uxuix.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srshuvo71&label=Profile%20views&color=0e75b6&style=flat" alt="srshuvo71" /> </p>
 
@@ -9,7 +7,7 @@
 
 - 🌱 I’m currently learning **Figma, UI/UX, Adobe photoshop & illustrator**
 
-- 👨‍💻 All of my projects are available at [Will make one soon ...](Will make one soon ...)
+- projects [Will make one soon ...](Will make one soon ...)
 
 - 💬 Ask me about **Figma, Python, HTML, CSS**
 
